@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.666667,
+dit-me-may-clone-cua-tao0.class
+#EXTINF:9.333333,
+dit-me-may-clone-cua-tao1.class
+#EXTINF:7.666667,
+dit-me-may-clone-cua-tao2.class
+#EXT-X-ENDLIST
